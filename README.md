@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @justnmills
+- 👀 I’m interested in everything web development!
+- 🌱 I’m currently learning JS!
+- 💞️ I’m looking to collaborate on anything dev related:)
+- 📫 How to reach me jmill3rlite@gmail.com
